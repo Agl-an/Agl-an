@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate software developer with a strong backgrou
 - Mentoring new developers and conducting tech workshops.
 
 ## 🌐 Connect with Me
-- 💻 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamedaglan)
+- 💻 **LinkedIn:** [Me](https://www.linkedin.com/in/mohamedaglan)
 
 
 Let's connect and collaborate on exciting projects! 💪
