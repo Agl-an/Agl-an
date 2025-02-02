@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Mohamed 🌟
 
-<!--
-**Agl-an/Agl-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate software developer with a strong background in full-stack development, cloud computing, and system architecture. I thrive on solving complex problems and building scalable applications that make a real-world impact.
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🎓 **Education:** Graduate in IT 
+- ⚖️ **Specialization:** Full-Stack Web Development, Mobile App Development, System Design
+- ✅ **Technical Skills:** Java, Kotlin, Python, C++, C#, JavaScript, SQL, PHP
+- ☁️ **Cloud Technologies:** AWS, Azure, Google Cloud
+- 💡 **Currently Learning:** CCNA, Advanced Algorithms, AI & ML
+- 🌟 **Interests:** Open-source contributions, Teaching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Projects & Contributions
+- **🌟 [Online Job Recruitment System]**
+  - Designed and implemented a scalable web-based recruitment system.
+  - Used Spring Boot, React, and PostgreSQL.
+
+- **🎧 [Music Streaming App (Flutter)]**
+  - Built a cross-platform music streaming app using Flutter and Firebase.
+  - Integrated real-time audio streaming and personalized playlists.
+
+- **✅ [Network Security & CCNA Lab]**
+  - Hands-on lab for CCNA networking concepts and security implementations.
+  - Configured VLANs, firewalls, and penetration testing.
+
+## 🎨 Open Source & Community
+- Active contributor to open-source projects in web and mobile development.
+- Mentoring new developers and conducting tech workshops.
+
+## 🌐 Connect with Me
+- 💻 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamedaglan)
+
+
+Let's connect and collaborate on exciting projects! 💪
+
